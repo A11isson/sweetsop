@@ -1,8 +1,10 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Yerba Mate: From Sacred Drink to Caffeinated Star"
-       author="Lucas Mertehikian"
+       title="Sweetsop"
+       source-image="https://commons.wikimedia.org/wiki/File:Atamaram_-_Annona_squamosa_L.jpg"
+       banner="https://commons.wikimedia.org/wiki/File:Atamaram_-_Annona_squamosa_L.jpg"
+       author="Alli"
        layout="vertical">
 
 ### Introduction
