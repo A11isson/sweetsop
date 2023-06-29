@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="Sweetsop"
-       source-image="https://commons.wikimedia.org/wiki/File:Atamaram_-_Annona_squamosa_L.jpg"
-       banner="https://commons.wikimedia.org/wiki/File:Atamaram_-_Annona_squamosa_L.jpg"
+       source-image="https://upload.wikimedia.org/wikipedia/commons/7/75/An_immature_custard_apple_%28annona_squamosa%29_at_Ponduru_in_Srikakulam_district.JPG"
+       banner="https://upload.wikimedia.org/wikipedia/commons/7/75/An_immature_custard_apple_%28annona_squamosa%29_at_Ponduru_in_Srikakulam_district.JPG"
        author="Alli"
        layout="vertical">
 
