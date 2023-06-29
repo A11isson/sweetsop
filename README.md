@@ -1,4 +1,4 @@
-# sweetsop&lt;a href=&quot;https://www.juncture-digital.org&quot;&gt;&lt;img src=&quot;https://juncture-
+&lt;a href=&quot;https://www.juncture-digital.org&quot;&gt;&lt;img src=&quot;https://juncture-
 digital.github.io/juncture/static/images/ve-button.png&quot;&gt;&lt;/a&gt;
 
 &lt;param ve-config 
