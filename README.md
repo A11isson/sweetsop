@@ -12,7 +12,7 @@
 <param ve-image label="Gauchos drinking mate" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg"> reg
 <param ve-image label="Sweetsop fruit" url=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Annona_squamosa_Blanco1.192.png/609px-Annona_squamosa_Blanco1.192.png?20090301220918">
 <param ve-entity eid="Q77" title="Uruguay">
-<param ve-entity eid="Annona_muricata_(guanábana)_-_DSC09277" title "Soursop"
+<param ve-entity eid="Annona_muricata_(guanábana)_-_DSC09277" 
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q46429" title=“Guarani people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
