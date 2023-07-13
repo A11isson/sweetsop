@@ -30,4 +30,4 @@ heigt="750">
 
 ## Using Maps
 
-<param ve-map center="Q27611" zoom"6"> 
+<param ve-map center="Q27611">  
