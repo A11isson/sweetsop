@@ -18,6 +18,18 @@
 <param ve-video vid="rA5FAgn7B_c"> 
 <param ve-plant-speciem jpid ="10.5555/al.ap.flora.flota000046?">  
 <param ve-iframe src="https://archive.org/details/35EffectOfEthanolicExtractOfTheLeavesOfPlantAnnonaSquamosaOnHematological"> 
+<param ve-images url= "https://commons.wikimedia.org/wiki/File:Sugar_apple_with_cross_section.jpg" title="sweetsop"
+
+
+
+
+
+
+
+
+
+
+
 
 ## Showing Timeline 
 
