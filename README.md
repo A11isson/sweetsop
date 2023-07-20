@@ -41,7 +41,6 @@ initial-zoom="1"
 heigt="750">
 
 ## Using Maps
-
 <param ve-map title="location" center="-23.18041846587458, -58.33976928283468" zoom="6"> 
 
 
